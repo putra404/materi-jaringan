@@ -1,12 +1,6 @@
-Internet Adalah Jaringan Komputer, Ini Pengertian dan Sejarahnya Internet adalah jaringan komunikasi elektronik yang menghubungkan jaringan komputer dengan fasilitas komputer di seluruh dunia. Jaringan ini tersusun dan terorganisir melalui telepon atau satelit.
-
 Awal Mula Terciptanya Jaringan Internet Fungsi internet adalah menghubungkan satu komputer dengan komputer lainnya. Cakupan jaringannya begitu luas hingga ke berbagai belahan dunia. Dikenal sebagai jaringan teknologi terbesar di dunia, semua orang bisa mengirimkan dan mengakses berbagai macam informasi menggunakan standar Protokol Internet (IP). Hal tersebut semakin dipermudah dengan kehadiran layanan jaringan world wide web (www).
 
-Artikel ini telah tayang di Katadata.co.id dengan judul "Internet Adalah Jaringan Komputer, Ini Pengertian dan Sejarahnya" , https://katadata.co.id/intan/berita/61ee4467db13b/internet-adalah-jaringan-komputer-ini-pengertian-dan-sejarahnya
-Penulis: Fathnur Rohman
-Dalam buku Teknologi Informasi dan Komunikasi (2017) yang diterbitkan oleh Kemendikbud, istilah internet adalah berasal dari bahasa Latin inter, yang berarti “antara”. Jika dilihat dari kata per kata, pengertian internet adalah sebuah jaringan antara atau penghubung. Definisi sederhananya, internet merupakan jaringan berjuta-juta komputer di seluruh dunia, terkoneksi menggunakan protokol TCP/IP. Internet menyediakan segala informasi. Semuanya bisa diakses oleh setiap orang. Bentuknya berupa tulisan, gambar, serta format multimedia lainnya. Keberadaan internet juga tidak bisa dilepaskan dengan perkembangan sejarah komputer. Sebab, dari komputer generasi pertama sampai sekarang, semua komponen mesinnya menginspirasi lahirnya internet.
-
-Dari semua penjelasan di atas bisa disimpulkan kalau internet adalah sebuah jaringan yang menghubungkan perangkat komputer ke seluruh dunia. Di dalamnya, para pengguna bisa mencari informasi tentang berbagai hal yang dia inginkan.
+Internet adalah sebuah jaringan yang menghubungkan perangkat komputer ke seluruh dunia. Di dalamnya, para pengguna bisa mencari informasi tentang berbagai hal yang dia inginkan.
 
 Internet mempunyai sejarah begitu panjang hingga keberadaannya tidak bisa dilepaskan dari kehidupan manusia. Ringkasan sejarah internet bisa dilacak dari pembentukan badan ARPA di Amerika Serikat sekitar tahun 1969. Ketika itu, sebuah jaringan komputer dibentuk dan diberi nama ARPANET.
 
